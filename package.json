@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S-Chili/TS_newProject.git"
+    "url": "git+https://github.com/S-Chili/goit-typescript-hw-01.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/S-Chili/TS_newProject/issues"
+    "url": "https://github.com/S-Chili/goit-typescript-hw-01/issues"
   },
-  "homepage": "https://github.com/S-Chili/TS_newProject#readme",
+  "homepage": "https://github.com/S-Chili/goit-typescript-hw-01#readme",
   "devDependencies": {
     "@web/dev-server": "^0.3.1"
   }
